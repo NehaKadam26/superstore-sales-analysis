@@ -49,7 +49,7 @@ dashboard_preview.png
 ## 📊 Dashboard Preview
 ![Dashboard Preview](dashboard_preview.png)
 
-> Download `Superstore_Sales_Dashboard.twbx` and open in Tableau Public to interact with the full dashboard.
+Download `Superstore_Sales_Dashboard.twbx` and open in Tableau Public to interact with the full dashboard.
 
 ---
 
