@@ -54,11 +54,11 @@ dashboard_preview.png
 ---
 
 ## 💡 Key Insights
-- 💻 **Technology** is the most profitable category; **Furniture** underperforms despite similar revenue to Office Supplies
-- 🌍 The **West** region leads in both sales and profit
-- 📅 Sales peak consistently in **September, November, and December** every year
-- 🏷️ Heavy discounting (above ~30%) strongly correlates with **negative profit**
-- ⚠️ Sub-categories like **Tables** and **Bookcases** generate losses overall
+- **Technology** is the most profitable category; **Furniture** underperforms despite similar revenue to Office Supplies
+- The **West** region leads in both sales and profit
+- Sales peak consistently in **September, November, and December** every year
+- Heavy discounting (above ~30%) strongly correlates with **negative profit**
+- Sub-categories like **Tables** and **Bookcases** generate losses overall
 
 ---
 
