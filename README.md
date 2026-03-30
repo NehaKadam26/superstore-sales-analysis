@@ -41,7 +41,7 @@ dashboard_preview.png
    - Monthly sales trend (2014–2017)
    - Discount vs profit relationship
 5. 🗄️ **SQL Analysis** — business insight queries using SQLite
-6. 💾 **Export** — cleaned dataset saved as CSV🎯
+6. 💾 **Export** — cleaned dataset saved as CSV
 7. 📊 **Tableau Dashboard** — interactive sales performance dashboard
 
 ---
