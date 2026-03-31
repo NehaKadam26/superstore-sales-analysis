@@ -25,7 +25,7 @@ This project analyzes 9,994 retail orders from a US-based superstore (2014–201
 ```
 Superstore_Sales_Analysis.ipynb
 Superstore_Sales_Dashboard.twbx
-dashboard_preview.png
+Dashboard_Preview.png
 ```
 
 ---
@@ -47,7 +47,7 @@ dashboard_preview.png
 ---
 
 ## 🎯 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 Download `Superstore_Sales_Dashboard.twbx` and open in Tableau Public to interact with the full dashboard.
 
